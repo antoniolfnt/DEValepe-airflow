@@ -1,0 +1,5 @@
+For my first data engineering project I thought that I could replicate the first project that I worked. A robot for extract data from "Portal da Transparência de Pernambuco" to monitor the spending of politicians. So he we are! It's a construction, so I will try to dedicate my time for this project 3 times a week. All the bibliography I'll use will be described at the end of each part of the project.
+
+1) First I started the git repository, inicially I thought to create 3 files for the ETL, so I created: Extraction, Transform and Load. The extraction will be in 3 parts, there are data since 2008 and the filter to extract is: Ano/Year; 2008-2022 , Orgão/Agency; Assembléia Legislativa de Pernambuco(ALEPE)
+
+(página 28)
